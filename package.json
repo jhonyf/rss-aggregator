@@ -1,0 +1,17 @@
+{
+  "name": "rss-reader",
+  "version": "0.1.0",
+  "description": "Combines multilple rss feed into one feed",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "private": true,
+  "dependencies": {
+    "async": "^1.4.2",
+    "httpdispatcher": "^0.4.0",
+    "q": "^1.4.1",
+    "request": "^2.61.0",
+    "xml2js": "^0.4.10"
+  }
+}

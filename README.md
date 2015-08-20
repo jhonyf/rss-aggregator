@@ -8,3 +8,7 @@ Installation
 npm install;
 node server.js
 ```
+
+Run
+------------
+Go to localhost:8888/rss
